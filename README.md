@@ -16,7 +16,7 @@ This list contains all the translations within this repository. The english vers
 |----------|-----------|---------|
 | English  | english   | 1.05    |
 | Spanish  | espanol   | 1.05    |
-| Portugues do Brasil | portugues_brasil   | 1.05    |
+| Português do Brasil | portugues_brasil   | 1.05    |
 
 ## License
 
